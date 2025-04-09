@@ -1,0 +1,6 @@
+192.168.0.1 - - [08/Apr/2025:14:00:01 -0300] "GET /index.html HTTP/1.1" 200 2326 "https://www.google.com/search?q=como+fazer+bolo" "Mozilla/5.0"
+192.168.0.2 - - [08/Apr/2025:14:01:15 -0300] "GET /cursos/javascript HTTP/1.1" 200 2840 "https://www.google.com/search?q=curso+de+javascript" "Mozilla/5.0"
+192.168.0.3 - - [08/Apr/2025:14:01:45 -0300] "GET /receitas HTTP/1.1" 200 3210 "https://www.google.com/search?q=receita+de+pao+de+queijo" "Mozilla/5.0"
+192.168.0.4 - - [08/Apr/2025:14:03:02 -0300] "GET /index.html HTTP/1.1" 200 2326 "https://www.google.com/search?q=como+fazer+bolo" "Mozilla/5.0"
+192.168.0.5 - - [08/Apr/2025:14:04:28 -0300] "GET /cursos/python HTTP/1.1" 200 2870 "https://www.google.com/search?q=aprenda+python+do+zero" "Mozilla/5.0"
+192.168.0.6 - - [08/Apr/2025:14:05:50 -0300] "GET /index.html HTTP/1.1" 200 2326 "https://www.google.com/search?q=como+fazer+bolo" "Mozilla/5.0"
